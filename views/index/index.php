@@ -12,9 +12,7 @@
 	
 	<div class="row top_margin">
 		<div class="col-md-12">
-			<div id="information">
-				<button onclick="read();"></button>
-			</div>
+			<div id="information"></div>
 		</div>
 	</div>
 </div>
